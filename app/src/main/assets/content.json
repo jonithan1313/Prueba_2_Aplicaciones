@@ -1,0 +1,117 @@
+{
+  "stages": [
+    {
+      "id": 1, "position": 1,
+      "title": "Planteamiento del problema",
+      "description": "Define el problema, la pregunta de investigación, los objetivos y la justificación de tu trabajo de título.",
+      "format": "Documento PDF o Word de 4 a 6 páginas con portada, índice, texto en interlineado 1,5 y referencias en APA 7.",
+      "deadline": "2026-11-15",
+      "rubric": [
+        "El problema está delimitado en tiempo, lugar y población.",
+        "La pregunta de investigación es clara y responde al problema.",
+        "Objetivo general y específicos coherentes, con verbos en infinitivo.",
+        "La justificación explica relevancia y utilidad del estudio."
+      ],
+      "steps": [
+        {"title": "Identifica el tema", "content": "Elige un tema vinculado a tu quehacer institucional. Responde: ¿qué situación real quiero mejorar o comprender? Escríbela en una frase."},
+        {"title": "Delimita el problema", "content": "Precisa dónde, cuándo y a quiénes afecta. Reúne al menos dos datos o antecedentes que demuestren que el problema existe."},
+        {"title": "Formula la pregunta", "content": "Redacta una pregunta de investigación abierta, concreta y posible de responder con los recursos y el tiempo que tienes."},
+        {"title": "Define los objetivos", "content": "Un objetivo general (qué lograrás) y de 2 a 4 específicos (cómo lo lograrás). Usa verbos medibles como describir, identificar, analizar o comparar."},
+        {"title": "Redacta la justificación", "content": "Explica por qué es importante resolver este problema, a quién beneficia y qué aporte hace tu trabajo."}
+      ]
+    },
+    {
+      "id": 2, "position": 2,
+      "title": "Marco teórico",
+      "description": "Reúne y organiza los conceptos y estudios previos que sustentan tu investigación.",
+      "format": "Documento de 8 a 12 páginas, mínimo 10 fuentes académicas, citas y referencias en APA 7.",
+      "deadline": "2026-12-04",
+      "rubric": [
+        "Los conceptos centrales están definidos con fuentes confiables.",
+        "Las fuentes son pertinentes, actuales y académicas.",
+        "Hay organización lógica por temas, no por fuente.",
+        "Citas y referencias cumplen la norma APA 7."
+      ],
+      "steps": [
+        {"title": "Lista los conceptos clave", "content": "A partir de tu pregunta y objetivos, anota los 4 a 6 conceptos que debes definir para que tu trabajo se entienda."},
+        {"title": "Busca fuentes confiables", "content": "Usa bases académicas, libros y documentos oficiales. Prioriza publicaciones de los últimos 5 a 10 años, salvo textos clásicos."},
+        {"title": "Lee y registra", "content": "Por cada fuente anota idea principal, datos relevantes y la referencia completa. Esto te ahorrará tiempo al citar."},
+        {"title": "Organiza por temas", "content": "Agrupa las ideas en apartados temáticos y conecta cada apartado con tus objetivos."},
+        {"title": "Redacta y cita", "content": "Parafrasea con tus palabras e incluye la cita en el texto. Revisa que cada cita tenga su referencia al final."}
+      ]
+    },
+    {
+      "id": 3, "position": 3,
+      "title": "Metodología",
+      "description": "Describe cómo realizarás el estudio: enfoque, diseño, población, muestra e instrumentos.",
+      "format": "Documento de 4 a 6 páginas que justifique cada decisión metodológica y adjunte los instrumentos como anexo.",
+      "deadline": "2026-12-18",
+      "rubric": [
+        "El enfoque y el diseño son coherentes con los objetivos.",
+        "Población y muestra están definidas con criterios claros.",
+        "Los instrumentos permiten medir lo que se necesita.",
+        "Se consideran aspectos éticos y confidencialidad."
+      ],
+      "steps": [
+        {"title": "Elige el enfoque", "content": "Cuantitativo (medir y contar), cualitativo (comprender significados) o mixto. Justifica la elección según tus objetivos."},
+        {"title": "Define el diseño y alcance", "content": "Indica si el estudio será exploratorio, descriptivo, correlacional o explicativo, y si es transversal o longitudinal."},
+        {"title": "Determina población y muestra", "content": "Describe quiénes participan, cuántos son y cómo los seleccionarás."},
+        {"title": "Selecciona instrumentos", "content": "Encuesta, entrevista, observación o análisis documental. Explica por qué es adecuado para tus objetivos."},
+        {"title": "Considera la ética", "content": "Explica cómo resguardarás la confidencialidad y el consentimiento de los participantes."}
+      ]
+    },
+    {
+      "id": 4, "position": 4,
+      "title": "Recogida de información",
+      "description": "Aplica tus instrumentos, registra los datos de forma ordenada y documenta el proceso.",
+      "format": "Informe de avance de 3 a 5 páginas con descripción del proceso, bitácora de aplicación y datos organizados.",
+      "deadline": "2027-01-15",
+      "rubric": [
+        "La aplicación sigue el plan metodológico definido.",
+        "Los datos están registrados de forma ordenada y verificable.",
+        "Se documentan incidencias y ajustes realizados.",
+        "Se resguarda la confidencialidad de los participantes."
+      ],
+      "steps": [
+        {"title": "Prepara los instrumentos", "content": "Revisa que estén completos y validados. Haz una prueba piloto con 2 o 3 personas y corrige lo que sea necesario."},
+        {"title": "Coordina la aplicación", "content": "Define fechas, lugares y responsables. Entrega a los participantes la información y el consentimiento."},
+        {"title": "Aplica y registra", "content": "Registra cada aplicación con fecha y condiciones. Anota cualquier incidencia que pueda afectar los datos."},
+        {"title": "Organiza los datos", "content": "Ordena la información en tablas o carpetas con nombres claros. Haz una copia de respaldo."}
+      ]
+    },
+    {
+      "id": 5, "position": 5,
+      "title": "Análisis de resultados",
+      "description": "Procesa los datos, presenta los hallazgos y responde tu pregunta de investigación.",
+      "format": "Documento de 8 a 12 páginas con tablas y gráficos rotulados, discusión, conclusiones y recomendaciones.",
+      "deadline": "2027-01-29",
+      "rubric": [
+        "El análisis corresponde a los objetivos planteados.",
+        "Tablas y gráficos son claros, rotulados y bien interpretados.",
+        "La discusión compara los hallazgos con el marco teórico.",
+        "Las conclusiones responden la pregunta de investigación."
+      ],
+      "steps": [
+        {"title": "Depura los datos", "content": "Revisa errores, respuestas incompletas o duplicados antes de analizar."},
+        {"title": "Procesa y resume", "content": "Calcula frecuencias, porcentajes o categorías según tu enfoque. Presenta los resultados en tablas y gráficos con título."},
+        {"title": "Interpreta los hallazgos", "content": "Explica qué significan los resultados y compáralos con lo que planteó el marco teórico."},
+        {"title": "Redacta las conclusiones", "content": "Responde la pregunta de investigación, indica el cumplimiento de cada objetivo y señala limitaciones y recomendaciones."},
+        {"title": "Revisión final", "content": "Revisa coherencia, ortografía, formato y referencias antes de entregar."}
+      ]
+    }
+  ],
+  "faqs": [
+    {"category": "Citación", "question": "¿Cómo cito una idea parafraseada en APA 7?", "answer": "Escribe la idea con tus palabras e incluye apellido y año entre paréntesis al final: (Pérez, 2022). Si nombras al autor en la oración: Pérez (2022) plantea que..."},
+    {"category": "Citación", "question": "¿Cómo hago una cita textual?", "answer": "Si tiene menos de 40 palabras, va entre comillas dentro del párrafo con autor, año y página: (Pérez, 2022, p. 15). Si tiene 40 o más, va en un bloque aparte, sin comillas y con sangría."},
+    {"category": "Citación", "question": "¿Cómo cito una fuente con tres o más autores?", "answer": "En APA 7 se cita desde la primera vez con el primer autor y \"et al.\": (Soto et al., 2021). En la lista de referencias se incluyen todos los autores, hasta 20."},
+    {"category": "Citación", "question": "¿Cómo armo la lista de referencias?", "answer": "Va al final, en orden alfabético por apellido, con sangría francesa. Un libro se escribe: Apellido, I. (Año). Título en cursiva. Editorial. Agrega el DOI o enlace cuando exista."},
+    {"category": "Metodología", "question": "¿Cómo elijo entre enfoque cuantitativo y cualitativo?", "answer": "Si quieres medir, contar o comparar variables, elige cuantitativo. Si quieres comprender experiencias o significados, elige cualitativo. El enfoque mixto combina ambos y exige más tiempo."},
+    {"category": "Metodología", "question": "¿Qué diferencia hay entre objetivo general y específicos?", "answer": "El general expresa lo que lograrás con el estudio completo. Los específicos son los pasos medibles para alcanzarlo; en conjunto deben cubrir el general."},
+    {"category": "Metodología", "question": "¿Cuántas personas debe tener mi muestra?", "answer": "Depende del enfoque y de tu población. Justifica el tamaño y el criterio de selección con tus objetivos y consúltalo con tu profesor guía."},
+    {"category": "Metodología", "question": "¿Puedo cambiar mi pregunta de investigación?", "answer": "Sí, mientras estés en las etapas iniciales y con acuerdo de tu profesor guía. Si cambia, revisa que los objetivos y la metodología sigan siendo coherentes."},
+    {"category": "Formato", "question": "¿Qué debe incluir la portada?", "answer": "Institución, escuela, título del trabajo, nombre del autor, profesor guía, asignatura y fecha. Sigue la plantilla oficial publicada por tu docente."},
+    {"category": "Formato", "question": "¿Qué tipo de letra e interlineado debo usar?", "answer": "Usa el formato indicado en la pauta de la asignatura. Como referencia general: letra legible de 11 o 12 puntos, interlineado de 1,5 y márgenes de 2,5 cm."},
+    {"category": "Formato", "question": "¿Cómo debo rotular tablas y figuras?", "answer": "Numéralas en orden (Tabla 1, Figura 1), agrega un título descriptivo y la fuente debajo. Menciónalas en el texto antes de presentarlas."},
+    {"category": "Formato", "question": "¿Cómo entrego mis avances?", "answer": "En el formato y plazo indicados en el calendario académico. Revisa la fecha límite de cada hito en la pestaña Checklist y activa su recordatorio."}
+  ]
+}
