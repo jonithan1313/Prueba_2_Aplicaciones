@@ -1,0 +1,3 @@
+<resources>
+    <style name="Theme.TutorVirtual" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
