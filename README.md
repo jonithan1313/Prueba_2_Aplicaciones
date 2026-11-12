@@ -4,8 +4,8 @@ Aplicación móvil Android (Kotlin + Jetpack Compose) que funciona como **tutor 
 Trabajo de Título I, II y III de la Escuela de Suboficiales de Carabineros (caso DSY1105, Duoc UC).
 Guía paso a paso la construcción de la tesis, centraliza pautas y FAQ, y permite hacer seguimiento de entregables con recordatorios locales.
 
-**Integrantes:** _Nombre Apellido 1_ · _Nombre Apellido 2_  (completar)  
-**Equipo N°:** _(completar)_  
+**Integrantes:** Jonathan Millao. Joshua Lopez. Vicente  
+**Equipo :** Ambrositos  
 **Asignatura:** DSY1105 – Desarrollo de Aplicaciones Móviles · Evaluación Parcial 2
 
 ## Funcionalidades
